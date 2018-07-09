@@ -1,0 +1,13 @@
+/*Sticky Footer*/
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+
+  /*Add Background Texture*/
+  background-image: url('../public/assets/images/FIFA-World-Cup-2018-201806130644.jpg');
+}
+
+main {
+  flex: 1 0 auto;
+}
