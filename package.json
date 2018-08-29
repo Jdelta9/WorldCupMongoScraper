@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/Jdelta9/WorldCupMongoScraper/issues"
   },
-  "homepage": "https://github.com/Jdelta9/WorldCupMongoScraper#readme"
+  "homepage": "https://github.com/Jdelta9/WorldCupMongoScraper#readme",
+  "devDependencies": {}
 }
