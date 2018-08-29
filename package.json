@@ -1,12 +1,13 @@
 {
-  "name": "worldcupmongoscraper",
+  "name": "mongo_homework",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mongodb webApp that webs scrapes World Cup Soccer news data and allows users to comment about their favorite teams.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Jessica Cervantes",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
@@ -14,6 +15,15 @@
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
-    "mongoose": "^5.1.6"
-  }
+    "mongoose": "^5.2.10",
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdelta9/WorldCupMongoScraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jdelta9/WorldCupMongoScraper/issues"
+  },
+  "homepage": "https://github.com/Jdelta9/WorldCupMongoScraper#readme"
 }
