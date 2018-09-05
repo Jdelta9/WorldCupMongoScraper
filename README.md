@@ -1,3 +1,11 @@
-# WorldCupNewsMongoScraper
-
-Mongodb webApp that webs scrapes World Cup Soccer news data and allows users to comment about their favorite teams.
+MongoScraper app
+Mongodb webApp that webs scrapes New York Times
+NPM packages used:
+Request
+Cheerio
+Mongoose
+Express
+Express-handlebars
+body-parser
+Axios
+parser
